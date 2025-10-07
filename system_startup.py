@@ -1,6 +1,6 @@
 """
 SYSTEM STARTUP SIMULATION (Assignment 2)
-Author : Sanyukt
+Author : Aditya Negi
 Course : Operating Systems Lab
 File   : system_startup.py
 
